@@ -15,7 +15,7 @@
 *Like Siri, I will be an all-round developer in the backend and dev-ops world.*  
 
 잘 부탁드립니다.🐱  
-Thank you.  
+*Thank you.*  
 
 
 <!--
