@@ -17,6 +17,18 @@
 잘 부탁드립니다.🐱  
 *Thank you.*  
 
+<br>
+
+---
+
+<br>
+
+### [My blog link]  
+<a 
+href="https://siri-syl.github.io/" target="_blank"><img alt="Github" 
+src="https://img.shields.io/badge/GitHub_Blog-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+
+
 
 <!--
 **siri-syl/siri-syl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
