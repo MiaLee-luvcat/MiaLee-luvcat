@@ -40,13 +40,13 @@ Please watch my growth!
 
 ### [My blog link]  
 <a 
-href="https://siri-syl.github.io/" target="_blank"><img alt="Github" 
+href="https://mialee-luvcat.github.io/" target="_blank"><img alt="Github" 
 src="https://img.shields.io/badge/GitHub_Blog-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 
 
 
 <!--
-**siri-syl/siri-syl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mialee-luvcat/mialee-luvcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
