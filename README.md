@@ -1,7 +1,7 @@
 ### Hi there 🐱
 
 I'm Mia Lee, a backend developer.  
-I've been working as a developer for about a year and have been building servers using Node.js' Express and Bun.js' WebSocket in JavaScript.  
+I've been working as a developer for about 2 year and have been building servers using Node.js' Express and Bun.js' WebSocket in JavaScript.  
 In the future, I plan to study Express (ts.ver), NestJS (ts.ver), and SPRING in TypeScript and JAVA languages, and then I'll hone my skills by switching the servers I've been building in JavaScript to TypeScript and JAVA versions.  
 
 Oh, and there's one more thing I know how to do.  
@@ -19,7 +19,7 @@ Please watch my growth!
 ### 안녕하세요! 🐱  
 
 저는 백엔드 개발자 Mia Lee입니다.  
-개발자로 일한 지 약 1년이 되었고 JavaScript로 된 Node.js의 Express, Bun.js의 WebSocket을 이용하여 서버를 구축해 왔습니다.  
+개발자로 일한 지 약 2년이 되었고 JavaScript로 된 Node.js의 Express, Bun.js의 WebSocket을 이용하여 서버를 구축해 왔습니다.  
 앞으로 TypeScript, JAVA 언어를 통한 Express(ts.ver), NestJS(ts.ver), SPRING도 공부하고자 합니다. 그런 뒤 그동안 만들어온 JavaScript로 된 서버를 TypeScript와 JAVA 버전으로 바꾸며 실력을 갈고닦을 것입니다.  
 
 아, 그리고 할 줄 아는 게 하나 더 있습니다.  
