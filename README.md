@@ -1,36 +1,38 @@
 ### Hi there 🐱
 
-I'm Mia Lee, a backend developer.  
-I've been working as a developer for about 2 year and have been building servers using Node.js' Express, NestJS and Bun.js' WebSocket in TypeScript.  
-In the future, I plan to study echo in Go languages.  
+I'm Mia Lee.  
+I've been working as a backend developer since May 3, 2022.  
+I specialize in building and deploying servers using various technologies and frameworks.  
 
-Oh, and there's one more thing I know how to do.  
-And that's deploying with AWS.  
-I used to deploy and run not only servers but also client-side websites.  
-But I'm only a first-level developer.  
-This is also something that I would like to build on by taking an official AWS course.  
+Here are some highlights of my experience and skills:
+
+- **Programming Languages**: JavaScript (+TypeScript), Python, Go  
+- **Frameworks**: ExpressJS, NestJS, Django, Echo  
+- **Cloud Platforms**: Proficient in deploying and managing servers with **AWS** and **Azure**  
+- **Databases**: Experienced in handling RDBMS and NoSQL databases  
 
 Please watch my growth!  
 
-(Start: 2023.05.07 ~ )  
+(Start: 2022.05.03 ~ )  
 
 ---
 
 ### 안녕하세요! 🐱  
 
 저는 백엔드 개발자 Mia Lee입니다.  
-개발자로 일한 지 약 2년이 되었고 TypeScript로 된 Node.js의 Express, NestJS, Bun.js의 WebSocket을 이용하여 서버를 구축해 왔습니다.  
-앞으로 Go 언어를 통한 echo 서버도 공부하고자 합니다.
+2022년 5월 3일부터 현업 백엔드 개발자로서 일하고 있습니다.
+저는 다양한 언어 및 기술과 프레임워크를 사용하여 서버를 구축하고 배포하는 일을 해 왔습니다.
 
-아, 그리고 할 줄 아는 게 하나 더 있습니다.  
-바로 AWS를 이용한 배포입니다.  
-서버뿐만이 아니라 Client 쪽의 웹사이트도 배포하여 운영하곤 했습니다.  
-하지만 Level을 가늠하자면 그저 1레벨 수준밖에 안 됩니다.  
-이 또한 AWS 공식 강의를 수강하며 실력을 쌓고자 합니다.  
+제가 주로 쓰는 기술 목록은 다음과 같습니다.
 
-저의 성장을 지켜봐주세요!  
+- **언어**: JavaScript (+TypeScript), Python, Go  
+- **프레임워크**: ExpressJS, NestJS, Django, Echo  
+- **클라우드 플랫폼**: **AWS** & **Azure**  
+- **데이터베이스**: RDBMS (MySQL, PostgreSQL) / NoSQL (MongoDB)
 
-(시작 : 2023.05.07 ~ )  
+계속 실력을 갈고닦아 보겠습니다! 저의 성장을 기대해 주세요!  
+
+(시작 : 2022.05.03 ~ )  
 
 <br>
 
