@@ -6,8 +6,8 @@ I specialize in building and deploying servers using various technologies and fr
 
 Here are some highlights of my experience and skills:
 
-- **Programming Languages**: JavaScript (+TypeScript), Python, Go  
-- **Frameworks**: ExpressJS, NestJS, Django, FastAPI, Echo  
+- **Programming Languages**: Python, Go, JavaScript (+TypeScript)  
+- **Frameworks**: Django, FastAPI, Echo, NestJS, ExpressJS  
 - **Cloud Platforms**: Proficient in deploying and managing servers with **AWS** and **Azure**  
 - **Databases**: Experienced in handling RDBMS and NoSQL databases  
 
@@ -25,8 +25,8 @@ Please watch my growth!
 
 제가 주로 쓰는 기술 목록은 다음과 같습니다.
 
-- **언어**: JavaScript (+TypeScript), Python, Go  
-- **프레임워크**: ExpressJS, NestJS, Django, FastAPI, Echo  
+- **언어**: Python, Go, JavaScript (+TypeScript)  
+- **프레임워크**: Django, FastAPI, Echo, NestJS, ExpressJS  
 - **클라우드 플랫폼**: **AWS** & **Azure**  
 - **데이터베이스**: RDBMS (MySQL, PostgreSQL) / NoSQL (MongoDB, Redis)
 
