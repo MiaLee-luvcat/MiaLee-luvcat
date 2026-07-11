@@ -40,10 +40,10 @@ Please watch my growth!
 
 <br>
 
-### [My blog link]  
+### [My LinkedIn link]  
 <a 
-href="https://mialee-luvcat.github.io/" target="_blank"><img alt="Github" 
-src="https://img.shields.io/badge/GitHub_Blog-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+href="https://www.linkedin.com/in/seonyoung-mia-lee/" target="_blank"><img alt="LinkedIn" 
+src="https://img.shields.io/badge/LinkedIn%20link-0A66C2" /></a>
 
 
 
